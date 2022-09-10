@@ -1,5 +1,7 @@
 # fusionpostprocess
 
+for linuxcnc 
+
 
 this will convert y axis values to a axis.
 
